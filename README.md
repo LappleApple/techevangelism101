@@ -9,13 +9,7 @@ My charge was two-fold:
 - A) brand Gilt as an innovative, challenging tech employer; 
 - B) build community internally, to retain our technologists. 
 
-The final job description we came up with combined PR, community management (internal and external), candidate sourcing, tech-blogging, social media, and random other topics relevant to goals A+B. Every part was listed, and it was just up to me to prioritize. My manager was the SVP of Engineering, not HR. Make a note of this: You might prefer your tech evangelist to be part of HR, but reporting into tech has lots of advantages for the evangelist (being part of the tech team and having that affiliation, sitting with tech and overhearing conversations, etc.). 
-
-Over two years my TE role changed as the company's needs shifted. Keep this in mind. If you're hiring an evangelist primarily for tech employer branding purposes, be agile in your mindset/approach to recruiting and retention needs. You might need 10 Java developers this quarter, and none next quarter. In one quarter, you might want to hold a lot of meetups and do a lot of external outreach to raise your employer branding profile; in the next, you might want to make sure those devs you've hired stick around for a while and feel like part of a team. 
-
-Also keep in mind the impact a passionate tech evangelist can have in terms of transforming your tech culture and empowering your technologists. The best part of an evangelist's job, from my perspective, was working with our technologists to help them discover their own superpowers as communicators, innovators and thought leaders. People like Gregory Mazurek, author of this [5 Reasons Why Your Company Needs To Hire A Tech Evangelist, Now](https://www.linkedin.com/pulse/my-5-reasons-why-your-company-needs-hire-tech-now-gregory-mazurek) post. With my assistance (but not much, as he knew what to do), Greg started giving tech talks and writing more blog posts—transmitting his energy and humility out into the NYC tech universe. 
-
-On a personal level, having any sort of role in empowering the people I looked up to and learned from was inspiring and made the job infinitely rewarding. On a team level, tapping the knowledge and energies of the team in creating content and being the public faces of our tech organization kept our employer branding rich and authentic.  
+You might think of your evangelist's role scope in a similar way. But evangelism can mean so much more. As tech evangelist, I pursued goals for the organization that combined PR, community management (internal and external), candidate sourcing, tech-blogging, social media, and random other topics relevant to goals A+B. It was just up to me to prioritize, which I could do thanks to the high level of trust we gave to each other. 
 
 In Feburary 2015, I hopped the pond and spent a year doing similar work at [Zalando](https://tech.zalando.com/), reporting into HR. These days, I focus on [open source](https://zalando.github.io/) evangelism/culture-building and agile coachy/producer-y stuff, reporting into tech. Meanwhile, Gilt hired a new tech evangelist. From what I've heard, he's great! 
 
@@ -23,13 +17,30 @@ This guide is meant to help you as you think about hiring a tech evangelist. It'
 
 If you're a tech evangelist yourself, please contribute to this doc! Let's get this party started ...
 
-###Before You Hire
+###Before You Hire: Some Tips for Your Approach
+
+####Be Agile.
+If you're hiring an evangelist primarily for tech employer branding purposes, be agile in your mindset/approach to recruiting and retention needs. The evangelist's role and priorities will change. Be flexible about your needs, and let them be flexible about how they prioritize. 
+
+You might need 10 Java developers this quarter, and none next quarter. In one quarter, you might want to hold a lot of meetups and do a lot of external outreach to raise your employer branding profile; in the next, you might want to make sure those devs you've hired stick around for a while and feel like part of a team. 
+
+####Think beyond "hiring" and "retention."
+To me, this point is a strategic goal and not a tactical one. The impact a passionate, engaged tech evangelist can have in terms of transforming your tech culture and empowering your technologists can be huge. For me, the best part of tech evangelizing was working with the many diverse members of our tech team to help them discover their own superpowers as communicators, innovators and thought leaders. People like Gregory Mazurek, author of this [5 Reasons Why Your Company Needs To Hire A Tech Evangelist, Now](https://www.linkedin.com/pulse/my-5-reasons-why-your-company-needs-hire-tech-now-gregory-mazurek) post. With my assistance (but not much, as he knew what to do), Greg started giving tech talks and writing more blog posts—transmitting his energy and humility out into the NYC tech universe. 
+
+On a personal level, having any sort of role in empowering the people I looked up to and learned from was inspiring and made the job infinitely rewarding. On a team level, tapping the knowledge and energies of the team in creating content and being the public faces of our tech organization kept our employer branding rich and authentic.  
+
+A tech evangelist can help you think of your tech organization more holistically by bridging the differences and communication gaps between engineers and managers, engineering and product, data and front-end, etc. The evangelist is the champion for all, and can help others in the team think less about "my functional team" and more about "my team, the big aggregation of all these complex and diverse personalities." Celebration is key to building culture: work with your evangelist to do it meaningfully, and often.
+
+###Before You Hire: Practical Stuff
 You'll need to think about a few key ingredients upfront.
 
 ####Can You Actually Hire Someone?
-- Advance buy-in among tech execs and leads—ie is an evangelist something the team really believes it needs?
-- Budget to cover activities and related expenses
-- Clarity on where this role fits within the organization – who does the evangelist report to?
+#####Advance buy-in among tech execs and leads—ie is an evangelist something the team really believes it needs?
+
+######Budget to cover activities and related expenses
+
+#####Clarity on where this role fits within the organization – who does the evangelist report to?
+My manager was the SVP of Engineering, not HR. Make a note of this: You might prefer your tech evangelist to be part of HR, but reporting into tech has lots of advantages for the evangelist (being part of the tech team and having that affiliation, sitting with tech and overhearing conversations, etc.). 
 - Clarity on the career trajectory – how is success in role/effectiveness measured? How do we gauge differences between “evangelist” and “senior evangelist,” “director of evangelism,” et al?
 
 ####If your goal is hiring tech talent
