@@ -1,11 +1,11 @@
-# So You Want to Hire a Tech Evangelist ...
+# So You Want to Hire a Tech Evangelist
 
 Hi! I'm Lauri, and I'm here to help you with that. 
 
-###What This Doc Sets out to Do
-This guide is meant to help you as you think about hiring a tech evangelist. It's structured so that, whether you're a tiny startup or a gigantic company, you can think about which aspects of TE you can and want to incorporate into your offerings, scale up, etc. 
+###Aim of This Doc
+This how-to is meant to help you as you think about hiring a tech evangelist. It's structured so that, whether you're a tiny startup or a gigantic company, you can think about which aspects of TE you can and want to incorporate into your offerings. If you're small now, you can scale up your evangelism efforts over time. If you're big enough to hire a full-time evangelist, this will hopefully help you approach that decision with greater confidence.
 
-It encourages you to be agile in your approach. If you're not part of a tech organization, and unfamiliar to agile methodologies, then this doc can hopefully show you a few approaches to hiring a tech evangelist that will make this effort a game changer for your tech org. The [Agile Manifesto](http://agilemanifesto.org/) informs this discussion via its emphasis on individuals and interactions, customer collaboration, and responding to change/adaptation. Hopefully this will become more apparent as we go.
+This doc encourages you to be agile in your approach. If you're not part of your company's tech team/org, and unfamiliar to agile methodologies, then this doc can hopefully show you a few approaches to hiring a tech evangelist that will make this effort a game changer for your tech org (and maybe your own). The [Agile Manifesto](http://agilemanifesto.org/) informs this discussion via its emphasis on individuals and interactions, customer collaboration, and responding to change/adaptation. Hopefully this will become more apparent as we go.
 
 If you're a tech evangelist yourself, please contribute to this doc! Let's get this party started ...
 
@@ -40,11 +40,25 @@ You'll need to think about a few key ingredients upfront.
 ####Can You Actually Hire Someone?
 #####Advance buy-in among tech execs and leads—ie is an evangelist something the team really believes it needs?
 
-######Budget to cover activities and related expenses
+Before you hire someone, make sure to reach consensus with your key stakeholders. This could include execs/leads from Tech, HR, Marketing, PR/Communications. Tech and HR are likely to work with the tech evangelist most closely, but this depends on what your evangelist is aimed at achieving. 
+
+#####Budget to cover activities and related expenses
+
+In addition to salary, make sure to reserve funds for evangelism activities. How much? That depends on your overall budget and ambition. Typical expenses that fall within the evangelism budget include:
+- Meetups: Food, staffing, signage, swag
+- Swag: pens, t-shirts, pins, stickers, other stuff
+- Conference sponsorships: These range from a few hundred dollars/Euros/pounds to several thousand. The biggest events often cost five-figures.
+- Sending technologists to conferences: If one of your people is speaking out of town, you'll have to cover that. How many times per year can you send someone to a conference? What's your budget cap?
+- Parties: Everybody loves a good party. 
+
+Regardless of your spend, frugality is always a good idea. Make sure your efforts align to your purpose. And always ask "why we're doing this" before doing something. A one-page answer to "why," for some review and second-opinioning, never hurts.
 
 #####Clarity on where this role fits within the organization – who does the evangelist report to?
-My manager was the SVP of Engineering, not HR. Make a note of this: You might prefer your tech evangelist to be part of HR, but reporting into tech has lots of advantages for the evangelist (being part of the tech team and having that affiliation, sitting with tech and overhearing conversations, etc.). 
-- Clarity on the career trajectory – how is success in role/effectiveness measured? How do we gauge differences between “evangelist” and “senior evangelist,” “director of evangelism,” et al?
+You might prefer your tech evangelist to be part of HR, but reporting into tech has lots of advantages for the evangelist. Being part of the tech team and having that affiliation, sitting with tech and overhearing conversations, etc., will help them feel aligned with the team they're serving. 
+
+#####Clarity on the career trajectory
+How is success in role/effectiveness measured? 
+How do your gauge differences between “evangelist” and “senior evangelist,” “director of evangelism,” et al?
 
 ####If your goal is hiring tech talent
 - What are your short- and long-term hiring goals? 
