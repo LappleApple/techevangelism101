@@ -18,7 +18,7 @@ My charge was two-fold:
 
 You might think of your evangelist's role scope in a similar way. But evangelism can mean so much more. As tech evangelist, I pursued goals for the organization that combined PR, community management (internal and external), candidate sourcing, tech-blogging, social media, and random other topics relevant to goals A+B. It was just up to me to prioritize, which I could do thanks to the high level of trust we gave to each other. 
 
-In Feburary 2015, I hopped the pond and spent a year doing similar work at [Zalando](https://tech.zalando.com/), reporting into HR. These days, I focus on [open source](https://zalando.github.io/) evangelism/culture-building and agile coachy/producer-y stuff, reporting into tech. Meanwhile, Gilt hired a new tech evangelist. From what I've heard, he's great! 
+In Feburary 2015, I hopped the pond and spent a year doing tech evangelism at [Zalando](https://tech.zalando.com/). Over the year, I got more focused on what I really wanted to do: open source evangelism and promoting agile values and methodologies as a way to enhance team culture. These days, I focus on [open source](https://zalando.github.io/) evangelism/culture-building and agile coachy/producer-y stuff. Meanwhile, Gilt hired a new tech evangelist. From what I've heard, he's great! 
 
 ###Before You Hire: Some Tips for Your Approach
 
