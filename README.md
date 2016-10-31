@@ -2,7 +2,14 @@
 
 Hi! I'm Lauri, and I'm here to help you with that. 
 
-###Brief Intro
+###What This Doc Sets out to Do
+This guide is meant to help you as you think about hiring a tech evangelist. It's structured so that, whether you're a tiny startup or a gigantic company, you can think about which aspects of TE you can and want to incorporate into your offerings, scale up, etc. 
+
+It encourages you to be agile in your approach. If you're not part of a tech organization, and unfamiliar to agile methodologies, then this doc can hopefully show you a few approaches to hiring a tech evangelist that will make this effort a game changer for your tech org. The [Agile Manifesto](http://agilemanifesto.org/) informs this discussion via its emphasis on individuals and interactions, customer collaboration, and responding to change/adaptation. Hopefully this will become more apparent as we go.
+
+If you're a tech evangelist yourself, please contribute to this doc! Let's get this party started ...
+
+###Who Am I
 I got my start in tech evangelism at [Gilt Groupe](http://tech.gilt.com/) in NYC, after working in journalism, online media, law school, and PR. Working with an extremely savvy HR Director and anarchistically minded, empowering SVP of Engineering, I created a job description that took all my disparate skills together and created a cohesive role. (This approach to role creation is something all companies ought to be open to, IMO.) 
 
 My charge was two-fold: 
@@ -12,10 +19,6 @@ My charge was two-fold:
 You might think of your evangelist's role scope in a similar way. But evangelism can mean so much more. As tech evangelist, I pursued goals for the organization that combined PR, community management (internal and external), candidate sourcing, tech-blogging, social media, and random other topics relevant to goals A+B. It was just up to me to prioritize, which I could do thanks to the high level of trust we gave to each other. 
 
 In Feburary 2015, I hopped the pond and spent a year doing similar work at [Zalando](https://tech.zalando.com/), reporting into HR. These days, I focus on [open source](https://zalando.github.io/) evangelism/culture-building and agile coachy/producer-y stuff, reporting into tech. Meanwhile, Gilt hired a new tech evangelist. From what I've heard, he's great! 
-
-This guide is meant to help you as you think about hiring a tech evangelist. It's structured so that, whether you're a tiny startup or a gigantic company, you can think about which aspects of TE you can and want to incorporate into your offerings, scale up, etc. 
-
-If you're a tech evangelist yourself, please contribute to this doc! Let's get this party started ...
 
 ###Before You Hire: Some Tips for Your Approach
 
