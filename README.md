@@ -44,6 +44,12 @@ You'll need to think about a few key ingredients upfront.
 - Is your organization generally prepared for what the tech evangelist will aim to do? If nobody on your team is available (whether literally or psychologically) to give talks, write blog posts, etc., then you're not ready. At the same time, you won't reach 100% on this. That's fine.
 - Have you reached consensus with your non-tech key stakeholders about hiring an evangelist? This could include execs/leads from HR, Marketing, PR/Communications, or satellite/hub offices. PR/Comms and HR are likely to work with the tech evangelist most closely, but this depends on what your evangelist is primarily aiming to achieve. 
 
+#####What makes you so special?
+
+This is hard to answer nowadays. Just about every tech company has "exciting challenges," open offices, perks, "cutting edge technologies," etc. Probably the only best solution is to "be yourself" and "show, don't tell." Talk to your own team about why they work for you. Ask newbies why they picked you and not Companies X, Y and Z. Collect that data and figure out what the patterns are in the responses. That's probably your tech brand, at least for now. It will change over time, as your priorities shift and your team expands or reconfigures itself. Worry about changes then. 
+
+Whatever you do, don't forget to involve your own engineers heavily in the process.  
+
 #####Budget to cover activities and related expenses
 
 In addition to salary, make sure to reserve funds for evangelism activities. How much? That depends on your overall budget and ambition. Typical expenses that fall within the evangelism budget include:
@@ -98,13 +104,18 @@ None of these are slam-dunk KPIs you should adopt. Each is flawed. Measuring eva
 - Tag appropriately and run your tech blog to make it easy to search by subject matter. Your UX audience is not going to read that post about load balancing; make sure they can find the relevant stuff.
 
 ###Open Source Evangelism
-For a comprehensive how-to on open-source evangelism, [click here](https://github.com/zalando/zalando-howto-open-source). 
+For a comprehensive how-to on open-source evangelism, [click here](https://github.com/zalando/zalando-howto-open-source). Evangelizing your open source projects and contributions is a compelling, authentic way to share information about your tech team's efforts with the world. It's code, it's actual work, and it offers a window into the way your teams operate. It gives you a substantive way to engage devs on subjects and ideas. 
+
+Some of you might want to consider hiring an open source evangelist instead of a tech evangelist. This depends on how much open source work your team is doing or using. If you're working with open source a lot, or generating a lot of projects that are being used by other companies, then you're doing your own organization as well as your project users a huge favor by having someone knowledgeable on the ground who can answer technical questions and work with/help/guide external communities of practice. 
+
+I wouldn't combine this role with hiring/recruitment. That would feel like a scam, and some people might even find it unethical. Instead, think of this role in alignment with your general culture-building efforts. I do a lot of talking to engineers about product design, usability, writing docs, and building communities. None of it has to do with recruiting. Ideally, the work eventually speaks for itself, engineers start talking about your useful contributions, and decide they want to work on your projects. 
+
 — Open Source: work with engineering team to create streamlined process for project development, release and marketing (hopefully decentralized)
 — Choose appropriate licensing
 - Work with creative to develop logos for projects
 - Edit documentation
 - Promote projects in tech community, to related media (e-newsletters, DZone, etc.)
-- Community-manage: respond to PRs and Issues to ensure your team is responding/being responsible project stewards, thank people for their contributions, etc. 
+- Community-manage: respond to PRs and Issues to ensure your team is responding/being responsible project stewards, thank people for their contributions, etc.
 — Create in-house open source retreat (1-2 weeks) initiatives for engineers working on OS projects. Call it the FOSSpital. 
 
 ###Social media: Facebook, Twitter, Flickr, YouTube
