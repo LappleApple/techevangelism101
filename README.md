@@ -38,9 +38,11 @@ A tech evangelist can help you think of your tech organization more holistically
 You'll need to think about a few key ingredients upfront.
 
 ####Can You Actually Hire Someone?
-#####Advance buy-in among tech execs and leads—ie is an evangelist something the team really believes it needs?
-
-Before you hire someone, make sure to reach consensus with your key stakeholders. This could include execs/leads from Tech, HR, Marketing, PR/Communications. Tech and HR are likely to work with the tech evangelist most closely, but this depends on what your evangelist is aimed at achieving. 
+#####Advance buy-in among tech execs and leads on this point is key. 
+- Can you afford a tech evangelist?
+- Has your leadership team reached consensus on the need to hire an evangelist? And are they willing to lend institutional support so that the person can be effective? It's not responsible to hire an evangelist, then expect them to operate in a silo or fix other cultural and organizational/team issues that might be plaguing your team. Make sure they have at least a few dedicated sponsors or champions at the leadership level.
+- Is your organization generally prepared for what the tech evangelist will aim to do? If nobody on your team is available (whether literally or psychologically) to give talks, write blog posts, etc., then you're not ready. At the same time, you won't reach 100% on this. That's fine.
+- Have you reached consensus with your non-tech key stakeholders about hiring an evangelist? This could include execs/leads from HR, Marketing, PR/Communications, or satellite/hub offices. PR/Comms and HR are likely to work with the tech evangelist most closely, but this depends on what your evangelist is primarily aiming to achieve. 
 
 #####Budget to cover activities and related expenses
 
@@ -51,14 +53,31 @@ In addition to salary, make sure to reserve funds for evangelism activities. How
 - Sending technologists to conferences: If one of your people is speaking out of town, you'll have to cover that. How many times per year can you send someone to a conference? What's your budget cap?
 - Parties: Everybody loves a good party. 
 
-Regardless of your spend, frugality is always a good idea. Make sure your efforts align to your purpose. And always ask "why we're doing this" before doing something. A one-page answer to "why," for some review and second-opinioning, never hurts.
+Regardless of your total available spend, frugality is always a good idea. Make sure your efforts align to your purpose. And always ask "why we're doing this" before doing something. A one-page answer to "why," for some review and second-opinioning, never hurts.
 
 #####Clarity on where this role fits within the organization – who does the evangelist report to?
 You might prefer your tech evangelist to be part of HR, but reporting into tech has lots of advantages for the evangelist. Being part of the tech team and having that affiliation, sitting with tech and overhearing conversations, etc., will help them feel aligned with the team they're serving. 
 
 #####Clarity on the career trajectory
-How is success in role/effectiveness measured? 
-How do your gauge differences between “evangelist” and “senior evangelist,” “director of evangelism,” et al?
+
+Because the tech evangelist role is kind of new and not always clearly understood, it's important for you and your evangelist to have some sort of track in place. Otherwise, after a few years they might feel like there's "nowhere to go but somewhere else." Don't allow that to happen! The key here is working with your evangelist to create a coherent career trajectory that they're excited about, and helping them to move up when the time comes.
+- Are they passionate about working with your dev teams, like a coach? Possibly some role in professional development/training makes sense. 
+- Do they love agile? Being an agile project manager is a sensible next step.
+- Do they love the sourcing and hiring part of their job? Then maybe they want to become some kind of tech super-recruiter who does both formal hiring as well as the branding stuff.
+- Do they love the thrill of a big media hit? Tech PR could be a good choice.
+- Do they love branding? Maybe you want to include them in your company's marketing efforts, leveraging their tech expertise to ensure that the company brand and the tech brand don't diverge.
+- Do they want to stay a tech evangelist? Collaborate with them to understand differences between “evangelist” and “senior evangelist,” “director of evangelism,” et al.
+
+How is success in the role/effectiveness measured? 
+
+For this, you might create some KPIs that measure things like:
+- event attendance
+- number of applications received as a result of evangelism activities
+- number of views to your tech blog
+- new followers on social media channels
+- new mentions in the press
+
+None of these are slam-dunk KPIs you should adopt. Each is flawed. Measuring evangelism effectiveness can be pretty difficult.
 
 ####If your goal is hiring tech talent
 - What are your short- and long-term hiring goals? 
