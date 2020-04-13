@@ -99,8 +99,8 @@ None of these are slam-dunk KPIs you should adopt. Each is flawed. Measuring eva
 — Acknowledge new hires with desk decorations, monthly meet-the-newbies lunch (would organize a welcoming committee to strategize around this)
 
 ### Blogging and Social Media
-— Create, write for, edit, and promote a tech blog. You want a nice combination of technical posts, reviews of your team's meetup and conference experiences (keep the focus on substance), reporting on OS projects your team is working on, Q&A's with your team about different aspects of your culture, think pieces by your execs and technologists about industry trends ... and more. Be creative.
-— Ensure a diversity of voices.
+- Create, write for, edit, and promote a tech blog. You want a nice combination of technical posts, reviews of your team's meetup and conference experiences (keep the focus on substance), reporting on OS projects your team is working on, Q&A's with your team about different aspects of your culture, think pieces by your execs and technologists about industry trends ... and more. Be creative.
+- Ensure a diversity of voices.
 - Tag appropriately and run your tech blog to make it easy to search by subject matter. Your UX audience is not going to read that post about load balancing; make sure they can find the relevant stuff.
 
 ### Open Source Evangelism
@@ -110,8 +110,8 @@ Some of you might want to consider hiring an open source evangelist instead of a
 
 I wouldn't combine this role with hiring/recruitment. That would feel like a scam, and some people might even find it unethical. Instead, think of this role in alignment with your general culture-building efforts. I do a lot of talking to engineers about product design, usability, writing docs, and building communities. None of it has to do with recruiting. Ideally, the work eventually speaks for itself, engineers start talking about your useful contributions, and decide they want to work on your projects.
 
-— Open Source: work with engineering team to create streamlined process for project development, release and marketing (hopefully decentralized)
-— Choose appropriate licensing
+- Open Source: work with engineering team to create streamlined process for project development, release and marketing (hopefully decentralized)
+- Choose appropriate licensing
 - Work with creative to develop logos for projects
 - Edit documentation
 - Promote projects in tech community, to related media (e-newsletters, DZone, etc.)
