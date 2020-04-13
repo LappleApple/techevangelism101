@@ -18,7 +18,7 @@ My charge was two-fold:
 
 You might think of your evangelist's role scope in a similar way. But evangelism can mean so much more. As tech evangelist, I pursued goals for the organization that combined PR, community management (internal and external), candidate sourcing, tech-blogging, social media, and random other topics relevant to goals A+B. It was just up to me to prioritize, which I could do thanks to the high level of trust we gave to each other.
 
-In Feburary 2015, I hopped the pond and spent a year doing tech evangelism at [Zalando](https://tech.zalando.com/). Over the year, I got more focused on what I really wanted to do: open source evangelism and promoting agile values and methodologies as a way to enhance team culture. These days, I focus on [open source](https://zalando.github.io/) evangelism/culture-building and agile coachy/producer-y stuff. Meanwhile, Gilt hired a new tech evangelist. From what I've heard, he's great!
+In Feburary 2015, I moved to Berlin to do tech evangelism at [Zalando](https://tech.zalando.com/). In 2016, I decided to specialize in open source evangelism and promoting agile values and methodologies as a way to enhance team culture. So I became Zalando's [open source](https://zalando.github.io/) evangelist, while taking on a second role as an agile coach in the Search department. Meanwhile, Gilt hired a new tech evangelist. He's now at GitLab.
 
 ### Before You Hire: Some Tips for Your Approach
 
@@ -104,7 +104,7 @@ None of these are slam-dunk KPIs you should adopt. Each is flawed. Measuring eva
 - Tag appropriately and run your tech blog to make it easy to search by subject matter. Your UX audience is not going to read that post about load balancing; make sure they can find the relevant stuff.
 
 ### Open Source Evangelism
-For a comprehensive how-to on open-source evangelism, [click here](https://github.com/zalando/zalando-howto-open-source). Evangelizing your open source projects and contributions is a compelling, authentic way to share information about your tech team's efforts with the world. It's code, it's actual work, and it offers a window into the way your teams operate. It gives you a substantive way to engage devs on subjects and ideas.
+For a comprehensive how-to on open-source evangelism, [read the TODO Group's guides](https://todogroup.org/guides/). You can also find some useful templates [here](https://github.com/zalando/zalando-howto-open-source). Evangelizing your open source projects and contributions is a compelling, authentic way to share information about your tech team's efforts with the world. It's code, it's actual work, and it offers a window into the way your teams operate. It gives you a substantive way to engage devs on subjects and ideas.
 
 Some of you might want to consider hiring an open source evangelist instead of a tech evangelist. This depends on how much open source work your team is doing or using. If you're working with open source a lot, or generating a lot of projects that are being used by other companies, then you're doing your own organization as well as your project users a huge favor by having someone knowledgeable on the ground who can answer technical questions and work with/help/guide external communities of practice.
 
@@ -129,6 +129,8 @@ o   Scholarship-related outreach: contact healthcare tech authors, startup/busin
 — Inform team of upcoming meetups of interest (through “evangelism” HipChat room or Slack channel)
 — Conferences: monitor Lanyrd.com, Twitter and other popular tech event info sources to prospect for opportunities for team to promote their work
 — Edit tech team members’ conference proposals, bios, presentations, blog posts, articles, any other materials; write and brainstorm topics when necessary
+
+
 
 ### Tech skills/professional development
 - Host tech courses open to the community, w/subjects chosen based on team interests. This way, your team learns essential new skills, and others in the community also benefit.
