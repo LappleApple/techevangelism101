@@ -130,23 +130,21 @@ o   Scholarship-related outreach: contact healthcare tech authors, startup/busin
 — Conferences: monitor Lanyrd.com, Twitter and other popular tech event info sources to prospect for opportunities for team to promote their work
 — Edit tech team members’ conference proposals, bios, presentations, blog posts, articles, any other materials; write and brainstorm topics when necessary
 
-
-
 ### Tech skills/professional development
 - Host tech courses open to the community, w/subjects chosen based on team interests. This way, your team learns essential new skills, and others in the community also benefit.
 - Work with team leads to develop your own courses, taught by own team (courses can be taught to public but are also very useful for onboarding)
-— Ideally offer this content on online learning platforms to promote tech brand externally
-— Work with team leads to ID skills blind spots and organize learning sessions to address those areas
+- Ideally offer this content on online learning platforms to promote tech brand externally
+- Work with team leads to ID skills blind spots and organize learning sessions to address those areas
 
 ### Public policy-related evangelism
 - Outreach to relevant advocates, educators, nonprofits, and other entities to form strategic partnerships and alliances
 - Stay up-to-date on industry trends and legislative developments relevant to company’s interest/mission
 - Create one-pagers and reports on your team's cutting-edge work/research
 - Represent the company at relevant policy discussions, legislative hearings, lobbying days, press conferences
-— Write op-eds stating company position
-— Work with legal team to drive policy-related initiatives company engages in—direct cross-functional team (marketing, creative, tech, legal)
-— Work with legal team to develop a quarterly/annual plan for engagement
-— Work with creative team to create infographics and visuals related to company goals
+- Write op-eds stating company position
+- Work with legal team to drive policy-related initiatives company engages in—direct cross-functional team (marketing, creative, tech, legal)
+- Work with legal team to develop a quarterly/annual plan for engagement
+- Work with creative team to create infographics and visuals related to company goals
 
 ### Company-wide evangelism
 - Work with social media/communications, PR and marketing team to ensure messaging is consistent across organization
