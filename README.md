@@ -149,12 +149,12 @@ o   Scholarship-related outreach: contact healthcare tech authors, startup/busin
 — Work with creative team to create infographics and visuals related to company goals
 
 ### Company-wide evangelism
-— Work with social media/communications, PR and marketing team to ensure messaging is consistent across organization
-— Collaborate with non-tech teams to share tips on new social media/outreach tools, brainstorm social media campaign ideas, ID opportunities for outreach
+- Work with social media/communications, PR and marketing team to ensure messaging is consistent across organization
+- Collaborate with non-tech teams to share tips on new social media/outreach tools, brainstorm social media campaign ideas, ID opportunities for outreach
 - Manage/co-manage PR campaigns if necessary
 
 ### Recruitment-related 
-— Help streamline recruitment process: tech screen; candidate correspondence; onsite interviews; post-interview correspondence
+- Help streamline recruitment process: tech screen; candidate correspondence; onsite interviews; post-interview correspondence
 - Help recruiting form Recruiting Committee made up of tech team members who are interested in process
 - Research recruiting best practices and new trends and share research with others
 - Help standardize recruitment messaging in job descriptions, ads (Hired, StackOverflow, etc.) and ensure language is clear, human
