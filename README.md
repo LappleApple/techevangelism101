@@ -85,6 +85,24 @@ For this, you might create some KPIs that measure things like:
 
 None of these are slam-dunk KPIs you should adopt. Each is flawed. Measuring evangelism effectiveness can be pretty difficult.
 
+### Table That Attempts to Weigh the Pros and Cons of Different Outreach Efforts
+This isn't scientific — a lot depends on your team's preferences, needs, and budget. This chart is possibly most helpful for the company that's new to all of this and trying to be frugal.  
+
+
+| Opportunity  | Description | Advantages  | Things to consider |
+| ------------- | ------------- | ------------- | ------------- |
+| Blog posts + podcasts (and social media)  | Post, podcast, video with/about/by a team member  | Content remains online; can promote several times via social media; helpful onboarding tool; low-cost; if you own the platforms you can collect metrics (visits, inbound links)  | Long-tail so impact can be unclear; if content is not great will detract from reputation/requires prep time and vetting  |
+| Meetup — speaker  | Team member speaks at meetup you don’t host  | Low-cost; good for speaker’s personal devpt and reputation; others can go and mingle; legitimacy-builder  | Requires good speaking skills/training, audience limited unless it’s recorded; audience might be mismatch/small/not target |
+| Meetup — Host  | Company hosts the meetup  | You own the event; curation; good for company to support community; your devs are more likely to join if it's also in your office; can pitch your jobs at the start; can work with small local food businesses to bring their goods for offer (folks get sick of pizza) | Need to select reputable meetups popular with strong candidates; some meetups attend the same regulars over time => hiring pool decreases; not as effective if you don’t get attendee info for follow-up emails about jobs (and some attendees won’t want to give info); hiring pitch needs to be subtle; team-attendees should be trained on networking to work crowd effectively; upfront prep time competes with other priorities; can be costly (in my experience, investing in quality food that is not pizza and beer really matters and creates a lot of buzz -- but this gets expensive) |
+| Conferences — Speaker  | See meetup info ^^ | Depending on event, audience can be large and high-quality; reach (promotion done by event, recordings, media); could be good for hiring remotes | Audience may not match to hiring offices/locations; lots of other companies promoting jobs/competing; can be even harder than other opportunities to measure impact/value of doing the event |
+| Conferences — Booth | Staffed booth at a conference | Can be a good way to meet lots of different developers and test messaging; a lot of room for creativity that can generate buzz (make a game, do prize giveaways, offer fun activities); good for devs to network; good for recruiting to visit other booths for future ideas | Requires investment in sponsorship; requires investment in booth design/swag/setup; usually several days/lost dev time; long periods of quiet as attendees are in talks; lots of other competitors; can be seen as “noise” if offering isn’t valuable; can be expensive (thousands of Euros/dollars) |
+| Conferences (or Community Day, or Hackathon)  — Host | See meetup info ^^ | See meetup host + conference booth ^^; offering a full day of content makes a big impact on attendees/prospective attendees; first event can generate much buzz; can select speakers and curate the event (sends a message to the industry about company values, priorities); can also be a community day or hackathon | Requires a lot of investment and coordination: money, people time, design, website hosting, social media, event scouting/confirmation, catering, Q&A with speakers and attendees, way to collect fees for tickets (unless free); hackathons tend to attract a lot of very green developers |
+| Email/LinkedIn | Personal message to candidate | Direct, quick, targeted | Often ignored as people get lots of such emails so they need to be thoughtful; can also seem creepy or aggressive if not done tactfully |
+| Job ad boards | Ads posted on tech job portals | Can be targeted to local markets; platform is explicitly hiring-related | Can be costly; need someone to monitor ads and evaluate for impact; competing with everyone else’s jobs; can generate a lot of iffy applications |
+| Swag | Branded collateral | If useful or cool, people will use it, talk about it with others | Requires monetary investment; needs to be updated when branding changes; if boring or cheesy, no one will like or use it |
+| White Papers | Position papers, data/research findings, or technical how-to content | Can be internal work turned into external content/value; can reflect well on company if novel and authoritative; can get lots of buzz (free marketing) | Wouldn’t do it for the sake of doing it; if data-focused, need to think about its shelf life; inaccuracies will cost |
+| Courses and Workshops | Offering instruction/training on technical skills | Great for establishing legitimacy; great for community brand awareness (goodwill factor => buzz); can ask people to “apply” for the course and optimize attendance to select likely/attractive job candidates; follow-up content reflects well on company | Time to prepare course content; need to train inexperienced team members on teaching skills; need to run through course internally to get user feedback (could cost developer days); if people don’t learn anything, they might complain publicly or to friends |
+
 #### If your goal is hiring tech talent
 - What are your short- and long-term hiring goals?
 - What is your recruitment infrastructure? Do you have a sourcer? Do you plan on this person doing sourcing and follow-up (candidate research, outreach, reviewing applications for fit, etc.)? I strongly suggest hiring a coordinator to handle logistics and admin tasks related to internal and external evangelism activities; this coordinator could also help recruiting and marketing teams (work cross-departmentally).
@@ -118,17 +136,18 @@ I wouldn't combine this role with hiring/recruitment. That would feel like a sca
 - Community-manage: respond to PRs and Issues to ensure your team is responding/being responsible project stewards, thank people for their contributions, etc.
 — Create in-house open source retreat (1-2 weeks) initiatives for engineers working on OS projects. Call it the FOSSpital.
 
+### Meetups and Conferences
+Some overall pointers:
+— When hosting meetups, produce high-quality technical events of interest to your own team as well as peers in the community
+— Inform your team of upcoming meetups of interest (through “evangelism” HipChat room or Slack channel) and ask them to join
+— Conferences: monitor Twitter and other popular tech event info-sources to prospect for opportunities for team to promote their work
+— Edit tech team members’ conference proposals, bios, presentations, blog posts, articles, any other materials so that their meetup and conference appearances look professional; write and brainstorm topics with them when necessary
+
 ### Social media: Facebook, Twitter, Flickr, YouTube
 — B2B outreach: seek case-study coverage from companies whose products we use (possible examples: Atlassian, Optimizely, Looker)
 — Media outreach: promote tech team/achievements to tech media
-o   Scholarship-related outreach: contact healthcare tech authors, startup/business authors, academics, tech freelance writers to pitch them stories about work culture, data, company culture/history, tech team organization/ideology
+- Scholarship-related outreach: contact healthcare tech authors, startup/business authors, academics, tech freelance writers to pitch them stories about work culture, data, company culture/history, tech team organization/ideology
 — Industry outreach: promote team work to relevant industry leaders using social media and, when possible, make introductions
-
-### Meetups and Conferences
-— Meetups: produce high-quality technical events of interest to own team as well as peers
-— Inform team of upcoming meetups of interest (through “evangelism” HipChat room or Slack channel)
-— Conferences: monitor Lanyrd.com, Twitter and other popular tech event info sources to prospect for opportunities for team to promote their work
-— Edit tech team members’ conference proposals, bios, presentations, blog posts, articles, any other materials; write and brainstorm topics when necessary
 
 ### Tech skills/professional development
 - Host tech courses open to the community, w/subjects chosen based on team interests. This way, your team learns essential new skills, and others in the community also benefit.
