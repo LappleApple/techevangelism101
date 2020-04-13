@@ -18,7 +18,7 @@ My charge was two-fold:
 
 You might think of your evangelist's role scope in a similar way. But evangelism can mean so much more. As tech evangelist, I pursued goals for the organization that combined PR, community management (internal and external), candidate sourcing, tech-blogging, social media, and random other topics relevant to goals A+B. It was just up to me to prioritize, which I could do thanks to the high level of trust we gave to each other.
 
-In Feburary 2015, I moved to Berlin to do tech evangelism at [Zalando](https://tech.zalando.com/). In 2016, I decided to specialize in open source evangelism and promoting agile values and methodologies as a way to enhance team culture. So I became Zalando's [open source](https://zalando.github.io/) evangelist, while taking on a second role as an agile coach in the Search department. Meanwhile, Gilt hired a new tech evangelist. He's now at GitLab.
+In Feburary 2015, I moved to Berlin to do tech evangelism at [Zalando](https://tech.zalando.com/). In 2016, I decided to specialize in open source evangelism and promoting agile values and methodologies as a way to enhance team culture. So I became Zalando's [open source](https://zalando.github.io/) evangelist, while taking on a second role as an agile coach in the Search department. These days I'm an agile program manager who consults others (including my colleagues) on hiring, interviewing, open source strategy, etc.
 
 ### Before You Hire: Some Tips for Your Approach
 
@@ -90,13 +90,13 @@ None of these are slam-dunk KPIs you should adopt. Each is flawed. Measuring eva
 - What is your recruitment infrastructure? Do you have a sourcer? Do you plan on this person doing sourcing and follow-up (candidate research, outreach, reviewing applications for fit, etc.)? I strongly suggest hiring a coordinator to handle logistics and admin tasks related to internal and external evangelism activities; this coordinator could also help recruiting and marketing teams (work cross-departmentally).
 
 ### Internal evangelism/culture-building
-— Create biweekly tech newsletter highlighting news and upcoming events
-— Work closely with team leads and managers to ID opportunities for specific teams and individuals to self-promote
-— Work closely with team leads, HR, managers to ensure team evangelism efforts are acknowledged during performance review and/or even integrate them into list of job responsibilities
-— Survey team on regular (monthly or quarterly) basis to take the temperature on certain initiatives and developments
-— Organize team tech talks featuring outside industry leaders
-— Create a plan for team activities: outings, contests, talent shows, team quizzes and games
-— Acknowledge new hires with desk decorations, monthly meet-the-newbies lunch (would organize a welcoming committee to strategize around this)
+- Create biweekly tech newsletter highlighting news and upcoming events
+- Work closely with team leads and managers to ID opportunities for specific teams and individuals to self-promote
+- Work closely with team leads, HR, managers to ensure team evangelism efforts are acknowledged during performance review and/or even integrate them into list of job responsibilities
+- Survey team on regular (monthly or quarterly) basis to take the temperature on certain initiatives and developments
+- Organize team tech talks featuring outside industry leaders
+- Create a plan for team activities: outings, contests, talent shows, team quizzes and games
+- Acknowledge new hires with desk decorations, monthly meet-the-newbies lunch (would organize a welcoming committee to strategize around this)
 
 ### Blogging and Social Media
 - Create, write for, edit, and promote a tech blog. You want a nice combination of technical posts, reviews of your team's meetup and conference experiences (keep the focus on substance), reporting on OS projects your team is working on, Q&A's with your team about different aspects of your culture, think pieces by your execs and technologists about industry trends ... and more. Be creative.
@@ -139,10 +139,10 @@ o   Scholarship-related outreach: contact healthcare tech authors, startup/busin
 — Work with team leads to ID skills blind spots and organize learning sessions to address those areas
 
 ### Public policy-related evangelism
-— Outreach to relevant advocates, educators, nonprofits, and other entities to form strategic partnerships and alliances
-— Stay up-to-date on industry trends and legislative developments relevant to company’s interest/mission
-— Create one-pagers and reports on your team's cutting-edge work/research
-— Represent the company at relevant policy discussions, legislative hearings, lobbying days, press conferences
+- Outreach to relevant advocates, educators, nonprofits, and other entities to form strategic partnerships and alliances
+- Stay up-to-date on industry trends and legislative developments relevant to company’s interest/mission
+- Create one-pagers and reports on your team's cutting-edge work/research
+- Represent the company at relevant policy discussions, legislative hearings, lobbying days, press conferences
 — Write op-eds stating company position
 — Work with legal team to drive policy-related initiatives company engages in—direct cross-functional team (marketing, creative, tech, legal)
 — Work with legal team to develop a quarterly/annual plan for engagement
